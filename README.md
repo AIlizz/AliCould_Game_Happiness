@@ -8,3 +8,14 @@
 
 由上可以看出，对于幸福感这个赛题，使用更好的算法，结果提升很大<br>
 ## 常用的分类模型的优劣点及常用场景；
+
+
+
+
+## 优化方法
+* GrindSearch：https://blog.csdn.net/weixin_41988628/article/details/83098130
+* 在sklearn的中：from sklearn.model_selection import GridSearchCV
+
+## Stacking
+* Stacking的机制类似于人民代表大会机制
+*
